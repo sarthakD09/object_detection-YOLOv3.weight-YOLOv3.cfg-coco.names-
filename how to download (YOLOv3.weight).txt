@@ -1,0 +1,7 @@
+HOW TO DOWNLOAD (YOLOv3.weight)
+
+—————>(https://sourceforge.net/projects/yolov3.mirror/)
+Use above link to download the file 
+
+Or simply 
+Search for required file on the browser and download the file 
